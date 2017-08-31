@@ -1,0 +1,46 @@
+.HeadBox {
+	width: 375px;
+	height: 72px;
+    background-color: #f5f5f5;
+    position: absolute;
+	box-shadow: 0 1px 2px 0 rgba(215, 215, 215, 0.5), 0 2px 4px 0 rgba(227, 227, 227, 0.5);
+}
+.HeadTitle{
+    width: 101px;
+	height: 30px;
+	font-family: NotoSerifCJKkr;
+	font-size: 21px;
+	font-weight: bold;
+	letter-spacing: -1.2px;
+	text-align: center;
+    color: #454545;
+    
+    position: absolute;
+    top: 30px;
+    left: 137.5px;
+}
+.HeadIconList{
+    width: 20px;
+    height: 20px;
+
+    position: absolute;
+    top: 38px;
+    left: 16px;
+    
+}
+.HeadIconSearch{
+    width: 18px;
+    height: 18px;
+    
+    position: absolute;
+    top: 39px;
+    left: 297px;
+}
+.HeadIconCart{
+    width: 20px;
+    height: 20px;
+    
+    position: absolute;
+    top: 37px;
+    left: 339px;
+}

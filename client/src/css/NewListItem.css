@@ -1,0 +1,37 @@
+.NewItemListBox {
+    
+}
+.NewItemListTitle{
+    width: 136px;
+	height: 29px;
+	font-family: NotoSansCJKkr;
+	font-size: 20px;
+	letter-spacing: -0.2px;
+	text-align: left;
+    color: #2c2c2c;
+    
+    position: absolute;
+    top: 242px;
+    left: 24px;
+}
+.NewItemListDetail{
+    width: 70px;
+	height: 20px;
+	font-family: NotoSansCJKkr;
+	font-size: 14px;
+	text-align: center;
+    color: #a7a7a7;
+    
+    position: absolute;
+    top: 248px;
+    left: 284px;
+}
+.NewItemListUnderBar{
+    width: 328.3px;
+	height: 1px;
+    border: solid 1px #eeeeee;
+    
+    position: absolute;
+    top: 279px;
+    left: 24px;
+}
